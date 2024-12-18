@@ -39,7 +39,7 @@ My journey in bachelors in information technology has led me to develop a passio
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge" />
+<a href="https://drive.google.com/drive/folders/1xaOpIY32K_NBvpaHOBtv1kCsxCvf0X1G"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge" /></a>
 </div>
 
 ## Projects
