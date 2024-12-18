@@ -1,5 +1,5 @@
 # Hello, I'm Alex 
-<a href="https://www.linkedin.com/in/alex-augustine-58b55a306/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alex-augustine-58b55a306/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
 I am a under graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
