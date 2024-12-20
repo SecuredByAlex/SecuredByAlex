@@ -25,7 +25,7 @@ My journey in bachelors in information technology has led me to develop a passio
 ### Automation
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux Badge" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL Badge" />
+    <a href="https://github.com/SecuredByAlex/DataQuery-Hub"><img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL Badge" /></a>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
   
 </div>
