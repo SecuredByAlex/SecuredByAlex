@@ -42,5 +42,5 @@ My journey in bachelors in information technology has led me to develop a passio
 </div>
 
 ## Projects
-- Phishing Email Analysis
+- Phishing Dtection Lab
 - SOC Automation Project
