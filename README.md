@@ -42,5 +42,5 @@ My journey in bachelors in information technology has led me to develop a passio
 </div>
 
 ## Projects
-- Phishing Dtection Lab <a href="https://github.com/SecuredByAlex/Phishing-Detection-Lab">Click Here</a>
+- <a href="https://github.com/SecuredByAlex/Phishing-Detection-Lab">Phishing Dtection Lab</a>
 - SOC Automation Project
