@@ -19,6 +19,7 @@ My journey in bachelors in information technology has led me to develop a passio
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snort-C12026?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Automation
