@@ -20,6 +20,7 @@ My journey in bachelors in information technology has led me to develop a passio
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <a href="https://github.com/SecuredByAlex/Brute-Force-Attack-Detection-with-Snort/blob/main/README.md"><img src="https://img.shields.io/badge/-Snort-C12026?&style=for-the-badge&logo=Snort&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 ### Automation
