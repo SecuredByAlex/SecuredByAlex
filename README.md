@@ -34,12 +34,14 @@ My journey in bachelors in information technology has led me to develop a passio
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-C12026?&style=for-the-badge&logo=Kibana&logoColor=white" />
   
 </div>
 
 ## Certifications
 <div>
 <a href="https://github.com/user-attachments/assets/1eec93e7-5236-4edd-b4b1-a94ad02cf14a"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge" /></a>
+    <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2C2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
 
