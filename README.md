@@ -33,7 +33,7 @@ My journey in bachelors in information technology has led me to develop a passio
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   <a href="https://github.com/SecuredByAlex/SplunkSecOps"> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
    <a href="https://github.com/SecuredByAlex/KibanaScope"><img src="https://img.shields.io/badge/-Kibana-C12026?&style=for-the-badge&logo=Kibana&logoColor=white" /></a>
 </div>
   
