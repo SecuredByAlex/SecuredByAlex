@@ -10,7 +10,7 @@ My journey in bachelors in information technology has led me to develop a passio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Email Analysis                       | <a href="https://github.com/SecuredByAlex/Phishing-Detection-Lab">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/SecuredByAlex/SplunkBackdoor-Hunt">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
