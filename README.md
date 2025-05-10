@@ -11,7 +11,7 @@ My journey in bachelors in information technology has led me to develop a passio
 |-----------------------------------------------|----------------------------|
 | Phishing Email Analysis                       | <a href="https://github.com/SecuredByAlex/Phishing-Detection-Lab">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/SecuredByAlex/SplunkBackdoor-Hunt">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/SecuredByAlex/H4cked-PCAP-Case-Study">Detection Lab</a>|
 
 
 ## Tools
