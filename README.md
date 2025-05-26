@@ -40,8 +40,8 @@ My journey in bachelors in information technology has led me to develop a passio
 
 ## Certifications
 <div>
-<a href="https://github.com/user-attachments/assets/1eec93e7-5236-4edd-b4b1-a94ad02cf14a"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge" /></a>
-   <a href="" > <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2C2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>. -- Expected by May 2025
+<a href="https://github.com/user-attachments/assets/1eec93e7-5236-4edd-b4b1-a94ad02cf14a"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge" /></a><br>
+   <a href="https://github.com/user-attachments/assets/f8ab3e92-27cb-42de-b4c0-6dfa4ff91ef9" > <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2C2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>. 
 </div>
 
 
