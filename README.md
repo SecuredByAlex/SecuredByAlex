@@ -1,6 +1,11 @@
-# Hello, I'm Alex 
-<a href="https://www.linkedin.com/in/alex-augustine-58b55a306/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
-I am a under graduate with a profound interest in technology and a dedication to solving complex problems.
+# Hello, I'm Alex Augustine 👋
+<a href="https://www.linkedin.com/in/alex-augustine-58b55a306/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+**Aspiring SOC Analyst | Threat Intelligence Enthusiast | Final Year IT Student**
+
+I build defensive labs to understand offensive tactics. My focus is on transforming raw logs into actionable intelligence and maintaining high-visibility security monitoring. 
+
+---
 
 ## Objective
 My journey in bachelors in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -9,6 +14,7 @@ My journey in bachelors in information technology has led me to develop a passio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Wazuh SOC Lab                                  | <a href="https://github.com/SecuredByAlex/Wazuh-SOC-Lab">Detection Lab</a>|
 | Phishing Email Analysis                       | <a href="https://github.com/SecuredByAlex/Phishing-Detection-Lab">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/SecuredByAlex/SplunkBackdoor-Hunt">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/SecuredByAlex/H4cked-analysis">Detection Lab</a>|
@@ -41,7 +47,9 @@ My journey in bachelors in information technology has led me to develop a passio
 ## Certifications
 <div>
 <a href="https://github.com/user-attachments/assets/1eec93e7-5236-4edd-b4b1-a94ad02cf14a"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge" /></a><br>
-   <a href="https://github.com/user-attachments/assets/f8ab3e92-27cb-42de-b4c0-6dfa4ff91ef9" > <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2C2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+   <a href="https://github.com/user-attachments/assets/f8ab3e92-27cb-42de-b4c0-6dfa4ff91ef9" > <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2C2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a><br>
+    <a href="https://github.com/user-attachments/files/26438257/Arc-X.CTI.101.pdf" > <img src="https://img.shields.io/badge/arcX-CTI%20101-0A66C2?style=for-the-badge&logo=security&logoColor=white" /></a>
+</div>
 </div>
 
 
